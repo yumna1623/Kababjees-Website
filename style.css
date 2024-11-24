@@ -91,6 +91,36 @@ nav{
 }
 /* <!-- ------------------------------------------------------------ --> */
 
+.About_us{
+    display: flex;
+    background-color: #151515;
+    color: #e7e7e7;
+    height: 50vh;
+    padding: 200px;
+    font-family: sans-serif;
+}
+.apart{
+    margin: 40px;
+}
+.part1 h1{
+    font-weight: 400;
+    margin-left: 3px;
+    font-size: 30px;
+}
+.part1 p{
+    margin-top: 40px;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 30px;
+    color: #999999;
+}
+.part2 img{
+    width: 500px;
+    height: 400px;
+    float: left;
+    margin-right: -30px;
+    
+}
 
 
 
